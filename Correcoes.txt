@@ -2,3 +2,4 @@ Arrumar a divisao
 Arrumar a multiplicacao
 Arrumar tag de view com erro
 Arrumar del longo demais
+Arrumar sinal +/-
